@@ -1755,7 +1755,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-DashControl/Pods-DashControl-resources.sh",
+				"${SRCROOT}/Pods/Target Support Files/Pods-DashControl/Pods-DashControl-resources.sh",
 				"${PODS_CONFIGURATION_BUILD_DIR}/DashSync/DashSync.bundle",
 				"${PODS_CONFIGURATION_BUILD_DIR}/MBCircularProgressBar/MBCircularProgressBar.bundle",
 			);
@@ -1766,7 +1766,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-DashControl/Pods-DashControl-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-DashControl/Pods-DashControl-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		9EDCE32632289D723EF39407 /* [CP] Copy Pods Resources */ = {
@@ -1775,7 +1775,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-DashControlTests/Pods-DashControlTests-resources.sh",
+				"${SRCROOT}/Pods/Target Support Files/Pods-DashControlTests/Pods-DashControlTests-resources.sh",
 				"${PODS_CONFIGURATION_BUILD_DIR}/DashSync/DashSync.bundle",
 				"${PODS_CONFIGURATION_BUILD_DIR}/MBCircularProgressBar/MBCircularProgressBar.bundle",
 			);
@@ -1786,7 +1786,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-DashControlTests/Pods-DashControlTests-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-DashControlTests/Pods-DashControlTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		B13CDC11D77705DD862345F6 /* [CP] Check Pods Manifest.lock */ = {

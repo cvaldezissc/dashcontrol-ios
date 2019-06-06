@@ -33,7 +33,6 @@
 #define InjectedProtocol(proto) id<proto, DIInject>
 
 //Other
-#import "IntTypes.h"
 #import "NSArray+SWAdditions.h"
 #import "RunOnMain.h"
 #import "DCLogging.h"
